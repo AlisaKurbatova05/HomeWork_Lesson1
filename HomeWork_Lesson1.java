@@ -2,7 +2,7 @@
 	Java Level 1 Lesson 1 Homework
 
 	@author Alisa Kurbatova
-	@version Aug 11, 2018
+	@version Aug 12, 2018
 	*/
 class HomeWork_Lesson1 {
 		public void variable() {
